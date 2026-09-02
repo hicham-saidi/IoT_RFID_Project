@@ -38,15 +38,12 @@ All information is displayed in an structured form with the following main eleme
 ## Components and Tools requirements:
 
 ### 🛠 **Hardware Components:**  
-- **ESP32 Development Board** (NodeMCU ESP32, ESP32-WROOM, etc.)  
-- **RFID Reader Module** (MFRC522 or RC522)  
+- **ESP32 Development Board**
+- **RFID Reader Module**
 - **RFID Tags or Cards**  
 - **Stepper Motor**
-- **Motor Driver Module** (ULN2003 for small stepper motors, A4988/DRV8825 for bigger motors)  
-- **Power Supply** (5V for ESP32 & RFID, 12V for motor if needed)  
-- **Jumper Wires** (Male-to-Male, Male-to-Female)  
-- **Breadboard** (for prototyping)  
-- **Push Button** (Optional, for manual override)  
+-**Power Supply** (5V for ESP32 & RFID)  
+- **Breadboard** (for prototyping)
 - **Buzzer** (Optional, for access feedback)  
 
 ### 💻 **Software & Tools:**  
